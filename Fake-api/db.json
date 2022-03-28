@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Jordan",
+      "petType": "dog",
+      "age": 1,
+      "race": "Golden Retriever"
+    },
+    {
+      "name": "Luana",
+      "petType": "dog",
+      "age": 13,
+      "race": "Pinscher",
+      "id": 2
+    }
+  ]
+}
